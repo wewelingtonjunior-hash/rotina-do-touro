@@ -93,5 +93,99 @@
    "id": "idaf-es"
   }
  ],
- "boletim": "2026-11-04"
+ "boletim": {
+  "abertura": "Bom dia, Wellington. Hoje tem juros parados no Brasil, virada no Congresso americano e a arroba do boi rondando os quatrocentos reais.",
+  "data": "2026-11-04",
+  "fechamento": "É isso por hoje, Wellington. Bom trabalho e até amanhã.",
+  "secoes": [
+   {
+    "itens": [
+     {
+      "fonte": "Money Times",
+      "manchete": "Copom mantém a Selic em 13,75% ao ano",
+      "resumo": "O Comitê de Política Monetária do Banco Central decidiu, por unanimidade, manter a taxa básica de juros em treze vírgula setenta e cinco por cento ao ano e pausar os cortes. O comitê elevou a projeção de inflação para dois mil e vinte e seis para cinco vírgula seis por cento e citou incertezas externas, como a alta do petróleo.",
+      "url": "https://www.moneytimes.com.br/o-que-mudou-no-comunicado-do-copom-selic-novembro-26-lils/"
+     },
+     {
+      "fonte": "Agência Brasil",
+      "manchete": "Senado aprova PEC da Segurança Pública sem reduzir a maioridade penal",
+      "resumo": "A proposta passou por setenta e cinco votos a zero no segundo turno e coloca na Constituição o Sistema Único de Segurança Pública, endurece penas para chefes de facções e permite guardas municipais com função de polícia. As emendas sobre maioridade penal serão votadas separadamente, e o texto segue para promulgação.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal"
+     },
+     {
+      "fonte": "Acessa.com",
+      "manchete": "Dos Estados Unidos, Flávio Bolsonaro vota remotamente no Senado",
+      "resumo": "O senador, que deixou o país após a derrota no segundo turno mesmo com ordem do Supremo para entregar o passaporte, registrou presença à distância e votou a favor da PEC da Segurança. Ele não comunicou a viagem à Mesa do Senado, e não há licença registrada.",
+      "url": "https://www.acessa.com/politica/2026/11/343607-nos-eua-flavio-bolsonaro-vota-remotamente-a-favor-da-pec-da-seguranca.html"
+     },
+     {
+      "fonte": "La Nación",
+      "manchete": "Democratas conquistam o controle do Congresso americano",
+      "resumo": "Nas eleições de meio de mandato dos Estados Unidos, realizadas na terça, o Partido Democrata garantiu maioria na Câmara e no Senado, segundo as projeções da apuração. O resultado obriga o presidente Donald Trump a governar os dois últimos anos com o Congresso nas mãos da oposição.",
+      "url": "https://www.lanacion.com.ar/estados-unidos/washington/resultados-midterm-elections-usa-2026-republicanos-democratas-nid03112026/"
+     }
+    ],
+    "titulo": "Destaques do Brasil e do mundo"
+   },
+   {
+    "itens": [
+     {
+      "fonte": "CNN Brasil",
+      "manchete": "Trump diz aceitar a derrota e parabeniza os democratas",
+      "resumo": "O presidente americano afirmou que está disposto a aceitar o resultado das urnas, mas disse não ver a derrota como um recado contra o seu governo. Ele reconheceu que a guerra com o Irã pesou contra os republicanos.",
+      "url": "https://www.cnnbrasil.com.br/internacional/parabens-aos-democratas-como-trump-reagiu-as-derrotas-nas-midterms/"
+     },
+     {
+      "fonte": "CNN Brasil",
+      "manchete": "Governo e clubes divergem sobre a proibição das bets no Supremo",
+      "resumo": "Em audiência pública no Supremo Tribunal Federal, o governo defendeu a proibição das apostas online como questão de saúde pública. Os clubes de futebol apontaram perdas de centenas de milhões de reais em patrocínio e alertaram para a migração de apostadores a sites ilegais.",
+      "url": "https://www.cnnbrasil.com.br/politica/governo-e-clubes-divergem-sobre-proibicao-das-bets-em-audiencia-no-stf/"
+     },
+     {
+      "fonte": "CNN Brasil",
+      "manchete": "Feijão-preto acumula alta de 91% em 2026",
+      "resumo": "O preço do feijão-preto quase dobrou desde o início do ano e chegou ao nível mais alto em dois anos, pressionando o custo da comida no prato.",
+      "url": "https://www.cnnbrasil.com.br/agro/feijao-preto-acumula-alta-de-91-em-2026-e-atinge-maior-preco-em-dois-anos/"
+     }
+    ],
+    "titulo": "CNN Brasil"
+   },
+   {
+    "itens": [
+     {
+      "fonte": "Canal Rural",
+      "manchete": "Boi gordo tem negócios a R$ 400 por arroba em São Paulo e renova recorde",
+      "resumo": "Segundo o Centro de Estudos Avançados em Economia Aplicada, o Cepea, já houve negócios a quatrocentos reais por arroba em São Paulo, novo recorde da série. A oferta curta de animais terminados e as escalas de abate apertadas sustentam a alta.",
+      "url": "https://www.canalrural.com.br/pecuaria/boi-gordo-registra-negocios-a-r-400-por-arroba-em-sp-e-volta-a-bater-recorde-aponta-cepea/"
+     },
+     {
+      "fonte": "CNN Brasil",
+      "manchete": "Rabobank: consumo interno é a maior incógnita para a carne bovina em 2027",
+      "resumo": "O banco projeta queda de seis por cento no consumo por habitante no ano que vem, porque frango e porco ficaram bem mais competitivos. A produção deve cair três por cento, e a arroba deve ficar um pouco abaixo de quatrocentos reais, com picos acima disso.",
+      "url": "https://www.cnnbrasil.com.br/agro/consumo-interno-e-maior-incognita-para-carne-bovina-em-2027-diz-rabobank/"
+     },
+     {
+      "fonte": "Notícias Agrícolas",
+      "manchete": "Vender está fácil, difícil é repor o gado",
+      "resumo": "Com a arroba em alta, o desafio do pecuarista passou a ser a reposição: em algumas negociações o bezerro chega a custar cerca de oitenta por cento acima do boi gordo. A recomendação é calcular a margem antes de comprar.",
+      "url": "https://www.noticiasagricolas.com.br/noticias/boi/430740-vender-esta-facil-dificil-e-repor-o-gado.html"
+     },
+     {
+      "fonte": "Notícias Agrícolas",
+      "manchete": "Restrição de bezerros mexicanos nos Estados Unidos pode abrir espaço ao Brasil",
+      "resumo": "Um estudo indica que, se os Estados Unidos retomarem só em parte a compra de bezerros do México, o boi americano fica mais caro e o país precisará importar mais carne até dois mil e trinta e um. O Brasil pode ganhar mercado, desde que atenda às regras de tarifas, cotas e habilitação.",
+      "url": "https://www.noticiasagricolas.com.br/noticias/boi/430762-bezerro-barrado-carne-mais-disputada-restricao-entre-mexico-e-eua-pode-abrir-espaco-ao-brasil.html"
+     },
+     {
+      "fonte": "NX1 (dados da Secex)",
+      "manchete": "Exportação de carne bovina perde ritmo em outubro, mas preço sobe",
+      "resumo": "Nos primeiros dezesseis dias úteis de outubro, o volume médio diário embarcado caiu cerca de trinta e quatro por cento em relação a outubro do ano passado, enquanto o preço médio por tonelada subiu cerca de treze por cento. Com a cota de exportação para a China já esgotada, os embarques acima dela pagam tarifa bem mais alta.",
+      "url": "https://nx1.com.br/2026/11/01/boi-gordo-passa-dos-r-400-e-entra-em-novembro-com-oferta-apertada/"
+     }
+    ],
+    "titulo": "Pecuária de corte"
+   }
+  ],
+  "titulo": "Boletim de 4 de novembro"
+ }
 }
