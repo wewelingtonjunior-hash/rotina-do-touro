@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1f6b4a"/>
+  <circle cx="256" cy="268" r="214" fill="#2a7d57"/>
+  <circle cx="256" cy="268" r="214" fill="none" stroke="#e0a64a" stroke-width="12" stroke-dasharray="2 26" stroke-linecap="round"/>
+  <g stroke="#1b2a22" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+    <!-- chifres -->
+    <path d="M186 178 C150 168 118 140 112 96 C140 118 168 128 200 146 Z" fill="#f3e7c9"/>
+    <path d="M326 178 C362 168 394 140 400 96 C372 118 344 128 312 146 Z" fill="#f3e7c9"/>
+    <!-- orelhas -->
+    <path d="M178 214 C140 214 104 200 88 176 C124 170 160 178 190 192 Z" fill="#c9c6bd"/>
+    <path d="M334 214 C372 214 408 200 424 176 C388 170 352 178 322 192 Z" fill="#c9c6bd"/>
+    <!-- brinco dourado com check -->
+    <rect x="378" y="196" width="40" height="46" rx="8" fill="#e0a64a"/>
+    <path d="M388 220 l8 9 l14 -18" fill="none" stroke="#1b2a22" stroke-width="7"/>
+    <!-- cabeça -->
+    <path d="M190 150 C220 134 292 134 322 150 C344 162 348 196 342 240 C336 290 330 330 318 356 L194 356 C182 330 176 290 170 240 C164 196 168 162 190 150 Z" fill="#f4f2ec"/>
+    <!-- topete -->
+    <path d="M222 150 C232 128 248 132 256 146 C264 130 282 128 290 150" fill="#c9c6bd"/>
+    <!-- focinho -->
+    <ellipse cx="256" cy="372" rx="84" ry="58" fill="#e8b4a0"/>
+    <ellipse cx="226" cy="372" rx="12" ry="16" fill="#1b2a22"/>
+    <ellipse cx="286" cy="372" rx="12" ry="16" fill="#1b2a22"/>
+    <path d="M236 406 C248 414 264 414 276 406" fill="none"/>
+  </g>
+  <!-- olhos -->
+  <circle cx="214" cy="262" r="20" fill="#1b2a22"/><circle cx="298" cy="262" r="20" fill="#1b2a22"/>
+  <circle cx="220" cy="255" r="7" fill="#fff"/><circle cx="304" cy="255" r="7" fill="#fff"/>
+  <!-- bochechas -->
+  <ellipse cx="190" cy="304" rx="16" ry="9" fill="#e8b4a0" opacity=".8"/><ellipse cx="322" cy="304" rx="16" ry="9" fill="#e8b4a0" opacity=".8"/>
+  <!-- brilho -->
+  <path d="M120 360 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8 Z" fill="#e0a64a"/>
+</svg>
